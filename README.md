@@ -10,7 +10,7 @@ I enjoy working on data analytics projects involving data cleaning, visualizatio
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.E. in Information Technology** — graduating in 2026  
+- 🎓 **B.E. in Information Technology** 2022-2026  
 - 📍 Based in **Mumbai, India**
 - 📊 Interested in **Data Analytics, Business Intelligence, Data Visualization, and Machine Learning**
 - 🌱 Currently improving my skills in **SQL, Python, Power BI, and data analysis**
